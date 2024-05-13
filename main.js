@@ -1,5 +1,4 @@
-import '.public/css/style.css';
-i,mport
+import './public/css/style.css';
 import * as THREE from 'three';
 import * as dat from 'dat.gui';
 import gsap from 'gsap';
