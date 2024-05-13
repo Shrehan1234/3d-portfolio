@@ -1,3 +1,7 @@
 export default {
-  base: '/3d-portfolio/',
+  base: './',
+  build: {
+    outDir: 'dist',
+    assetsDir: 'assets'
+  }
 };
