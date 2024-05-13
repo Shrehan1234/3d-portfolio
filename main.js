@@ -1,4 +1,5 @@
 import '.public/css/style.css';
+i,mport
 import * as THREE from 'three';
 import * as dat from 'dat.gui';
 import gsap from 'gsap';
